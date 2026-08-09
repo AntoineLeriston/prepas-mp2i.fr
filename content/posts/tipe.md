@@ -126,7 +126,13 @@ Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits
 
 ### 2026 : Cycles, boucles
 
-*Exemples disponibles à l'été 2026.*
+#### Tétraconcours
+
+| Titre | Étudiant.e | Présentation | MCOT | Notes |
+| :---: | :--------: | :----------: | :--: | :----: |
+| Apprentissage en ligne pour l'exploitation d'une machine sous information partielle | Rehan JIVA LILA | [![TIPE_Rehan.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Rehan.pdf) | [![MCOT_Rehan.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Rehan.pdf) | - |
+
+*N'hésitez pas à envoyer vos TIPE à contact@prepas-mp2i.fr!*
 
 ### 2025 : Transition, transformation, conversion
 
